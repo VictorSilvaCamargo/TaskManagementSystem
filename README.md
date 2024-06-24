@@ -11,9 +11,9 @@ Configurações:
 
   -> Nome do banco de dados: taskmanager_db
 
-  -> Username : root
+  -> Username: root
   
-  -> senha : admin
+  -> senha: admin
   
 -> JUnit
 
