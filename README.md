@@ -1,13 +1,22 @@
 Gerenciador de tarefas
 Configurações:
+
 -> Spring web
+
 -> Spring JPA
+
 -> Spring DevTools
+
 -> MySQL connector
+
   -> Nome do banco de dados: taskmanager_db
+
   -> Username : root
+  
   -> senha : admin
+  
 -> JUnit
+
 -> Mokito
 
 ![Captura de tela 2024-06-23 222942](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/8355fc20-bb93-4294-a0ca-f2eba983fed4)
