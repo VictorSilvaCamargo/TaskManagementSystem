@@ -55,4 +55,3 @@ Não estava nos requisitos, mas decidi usar testes para o projeto:
 
 ![Captura de tela 2024-06-23 222648](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/4588cf2b-7914-45a1-a2b6-ea147127bfb2)
 
-![Captura de tela 2024-06-23 220804](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/fae05357-75ff-4d16-813a-847836408b81)
