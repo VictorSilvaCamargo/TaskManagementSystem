@@ -13,7 +13,7 @@ Configurações:
 
   -> Username: root
   
-  -> senha: admin
+  -> Senha: admin
   
 -> JUnit
 
