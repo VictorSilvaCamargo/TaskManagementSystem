@@ -44,11 +44,13 @@ E o banco de dados sera atualizado:
 ![Captura de tela 2024-06-23 223111](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/136e525e-1295-4e9c-acbc-ce3684e128c9)
 
 Outras capturas de tela que demonstram a funcionalidade:
+
 ![Captura de tela 2024-06-23 223127](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/04d6dfd4-91a0-4753-8b71-45dac1159f15)
 
 ![Captura de tela 2024-06-23 223155](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/ffd489b3-4de5-4a93-9b4b-9d0e99517167)
 
 Não estava nos requisitos, mas decidi usar testes para o projeto:
+
 ![Captura de tela 2024-06-23 222657](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/a8a9d752-0258-4be8-9690-a83177125961)
 
 ![Captura de tela 2024-06-23 222648](https://github.com/VictorSilvaCamargo/TaskManagementSystem/assets/107776635/4588cf2b-7914-45a1-a2b6-ea147127bfb2)
